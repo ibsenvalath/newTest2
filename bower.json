@@ -1,0 +1,20 @@
+{
+  "name": "boweribsentest",
+  "homepage": "https://github.com/ibsenvalath/newTest2",
+  "authors": [
+    "ibsenvalath <ibsenvalath@gmail.com>"
+  ],
+  "description": "",
+  "main": "file.txt",
+  "keywords": [
+    "boweribsentest"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
